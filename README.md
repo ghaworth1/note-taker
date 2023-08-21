@@ -10,7 +10,7 @@ A basic note-taking app.
 
 ## Screen Shots
 
-Insert gif or link to demo
+![Image](/homework/express-note-taker/public/assets/images/Capture.JPG)
 
 
 ## Links
