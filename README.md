@@ -7,6 +7,11 @@ A basic note-taking app.
 
 - [@ghaworth1](https://www.github.com/ghaworth1)
 
+## Installation
+
+- run npm i after cloning the repo
+
+- node server.js
 
 ## Screen Shots
 
